@@ -191,9 +191,8 @@ Built a responsive book-lending platform with a user-focused interface and datab
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RChanjugaa/RChanjugaa/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RChanjugaa/RChanjugaa/output/github-contribution-grid-snake.svg">
-  <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/RChanjugaa/RChanjugaa/output/github-contribution-grid-snake.svg">
-</picture>
-
+  <img src="https://raw.githubusercontent.com/RChanjugaa/RChanjugaa/output/github-contribution-grid-snake.svg"
+     alt="Animated contribution snake">
 </div>
 
 ---
@@ -202,7 +201,7 @@ Built a responsive book-lending platform with a user-focused interface and datab
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-chanju1231%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chanju1231@gmail.com)
+[![Email](https://img.shields.io/badge/Email-chanju1231%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chanjumohan583@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Chanjugaa%20Rasamohan-4338CA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chanjugaa-rasamohan-1444b0372)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rchanjugaa.github.io/R.Chanjugaa/)
 
@@ -211,19 +210,4 @@ Built a responsive book-lending platform with a user-focused interface and datab
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:312E81,50:6D28D9,100:8B5CF6&animation=fadeIn)
 
 </div>
-## Hi there 👋
 
-<!--
-**RChanjugaa/RChanjugaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
