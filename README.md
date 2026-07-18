@@ -178,19 +178,6 @@ Built a responsive book-lending platform with a user-focused interface and datab
 
 ---
 
-## Contribution trail
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RChanjugaa/RChanjugaa/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RChanjugaa/RChanjugaa/output/github-contribution-grid-snake.svg">
-  <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/RChanjugaa/RChanjugaa/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
 
 ## Connect
 
