@@ -167,14 +167,8 @@ Built a responsive book-lending platform with a user-focused interface and datab
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=RChanjugaa&show_icons=true&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&rank_icon=github">
-  <img width="49%" alt="Chanjugaa's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=RChanjugaa&show_icons=true&hide_border=true&title_color=6D28D9&icon_color=7C3AED&text_color=312E81&rank_icon=github">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RChanjugaa&layout=compact&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=C4B5FD">
-  <img width="41%" alt="Most-used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RChanjugaa&layout=compact&hide_border=true&title_color=6D28D9&text_color=312E81">
-</picture>
+<img width="49%" alt="Chanjugaa's GitHub statistics" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RChanjugaa&theme=tokyonight">
+<img width="49%" alt="Most-used languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RChanjugaa&theme=tokyonight">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=RChanjugaa&theme=transparent&hide_border=true&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=8B5CF6&dates=7C3AED)](https://git.io/streak-stats)
 
@@ -191,8 +185,9 @@ Built a responsive book-lending platform with a user-focused interface and datab
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RChanjugaa/RChanjugaa/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RChanjugaa/RChanjugaa/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/RChanjugaa/RChanjugaa/output/github-contribution-grid-snake.svg"
-     alt="Animated contribution snake">
+  <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/RChanjugaa/RChanjugaa/output/github-contribution-grid-snake.svg">
+</picture>
+
 </div>
 
 ---
@@ -201,7 +196,7 @@ Built a responsive book-lending platform with a user-focused interface and datab
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-chanju1231%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chanjumohan583@gmail.com)
+[![Email](https://img.shields.io/badge/Email-chanju1231%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chanju1231@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Chanjugaa%20Rasamohan-4338CA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chanjugaa-rasamohan-1444b0372)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rchanjugaa.github.io/R.Chanjugaa/)
 
@@ -210,4 +205,3 @@ Built a responsive book-lending platform with a user-focused interface and datab
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:312E81,50:6D28D9,100:8B5CF6&animation=fadeIn)
 
 </div>
-
